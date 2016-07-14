@@ -58,6 +58,7 @@ public class Node {
 		
 		}
 	}
+	// this main method is just for testing u can remove this part
 	public static void main(String[] args) {
 		Node List = new Node(1);
 		
