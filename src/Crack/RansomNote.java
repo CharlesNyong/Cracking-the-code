@@ -24,7 +24,7 @@ public class RansomNote {
 			System.out.println("No");
 		}
 		else{
-			System.out.println("Yes");
+			System.out.println("Yes ");
 		}
 	}
 
