@@ -10,7 +10,7 @@ public class FillArrayWithZeros {
 	public static int M = 3;
 	
 	/*this function can be modified to populate
-	 * the array in any other. This just gives
+	 * the array in any order. This just gives
 	 * you an array to work with.
 	 * */
 	public static void populateArray(int[][]A, int k, int l){
